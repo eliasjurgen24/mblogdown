@@ -1,0 +1,19 @@
+---
+title: Nuevo Post 1
+author: ~
+date: '2020-03-03'
+slug: nuevo-post-1
+categories: []
+tags: []
+---
+
+#Archivo Rmd
+
+#Tabla Dataset Iris
+```{r, echo=FALSE}
+data("iris")
+head(iris)
+
+
+```
+
